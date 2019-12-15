@@ -12,9 +12,8 @@ brew upgrade
 echo "Installing HomeBrew apps"
 brew install python3
 brew install pipenv
-brew install tree
 brew install node
-brew install nano
+brew install tree
 brew install git
 brew install htop
 brew install ripgrep
@@ -35,8 +34,8 @@ brew cask install intelliscape-caffeine
 brew cask install sublime-text
 brew cask install pgadmin4
 brew cask install maccy
-brew cask install pycharm-ce
-
+brew cask install pycharm-ee
+brew cask install typora
 brew cask install postman  
 brew cask install docker
 brew cask install slack
