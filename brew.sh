@@ -41,6 +41,8 @@ brew cask install docker
 brew cask install slack
 brew cask install alfred
 brew cask install cheatsheet
+brew cask install mactex
+brew cask install vanilla
 
 brew cask install google-chrome
 brew cask install virtualbox
@@ -51,6 +53,7 @@ brew cask install hyperdock
 brew cask install divvy
 brew cask install safeincloud-password-manager
 brew cask install flux 
+brew cask install gimp
 
 brew tap homebrew/cask-fonts
 brew cask install font-source-code-pro
