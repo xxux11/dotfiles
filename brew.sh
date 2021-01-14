@@ -31,7 +31,6 @@ brew cask install iterm2
 brew cask install visual-studio-code
 brew cask install intellij-idea-ce
 brew cask install intelliscape-caffeine
-brew cask install sublime-text
 brew cask install pgadmin4
 brew cask install maccy
 brew cask install pycharm-ee
